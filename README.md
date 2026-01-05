@@ -2,7 +2,7 @@
 
 Este repositório contém a **organização e contextualização dos principais projetos desenvolvidos ao longo da minha jornada de aprendizado em tecnologia**, com foco em **Ciência de Dados, Engenharia de Dados, Inteligência Artificial e Cloud Computing**.
 
-Os projetos reunidos aqui foram construídos majoritariamente no contexto de **bootcamps e desafios práticos da DIO**, como o *Santander 2025 – Ciência de Dados com Python* e o *CAIXA – Inteligência Artificial na Prática*, além de iniciativas próprias voltadas à consolidação de conhecimento e construção de portfólio técnico.
+Os projetos reunidos aqui foram construídos majoritariamente no contexto de **bootcamps e desafios práticos da DIO**, além de iniciativas próprias voltadas à consolidação de conhecimento e construção de portfólio técnico.
 
 Os projetos listados estão em **constante evolução e modificação**, recebendo melhorias contínuas, ajustes de documentação, refatorações, novas análises e possíveis expansões de escopo, de acordo com o avanço dos estudos e aprofundamento técnico.
 
